@@ -1,0 +1,822 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation "Hauptnavigation" [ref=e4]:
+      - link "Tarek." [ref=e5] [cursor=pointer]:
+        - /url: "#top"
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - link "Work" [ref=e8] [cursor=pointer]:
+            - /url: "#work"
+        - listitem [ref=e9]:
+          - link "Research" [ref=e10] [cursor=pointer]:
+            - /url: "#research"
+        - listitem [ref=e11]:
+          - link "Was ich mache" [ref=e12] [cursor=pointer]:
+            - /url: "#was-ich-mache"
+        - listitem [ref=e13]:
+          - link "Log" [ref=e14] [cursor=pointer]:
+            - /url: "#log"
+        - listitem [ref=e15]:
+          - link "Kontakt" [ref=e16] [cursor=pointer]:
+            - /url: "#kontakt"
+  - main [ref=e17]:
+    - generic [ref=e18]:
+      - heading "Hi, ich bin Tarek. I build things." [level=1] [ref=e19]
+      - generic [aria-hidden]:
+        - generic: I build
+      - img "Portrait von Tarek" [ref=e24]
+      - generic [aria-hidden]:
+        - generic: things.
+      - generic:
+        - paragraph: Hi, ich bin Tarek.
+        - generic:
+          - paragraph: Ich entwickle digitale Produkte, setze eigene Ideen um und beschäftige mich mit Technologie, Finanzen und Unternehmertum.
+          - list:
+            - listitem: Developer
+            - listitem: Quantitative Finance
+            - listitem: Mathematik
+            - listitem: Entrepreneurship
+      - generic "Woran ich gerade arbeite" [ref=e25]:
+        - generic [ref=e26]:
+          - list [ref=e27]:
+            - listitem [ref=e28]:
+              - generic [ref=e29]: REVIEWFLOW
+              - generic [aria-hidden] [ref=e30]: ▲
+              - generic [ref=e31]: building
+            - listitem [ref=e32]:
+              - generic [ref=e33]: WASGEHT
+              - generic [aria-hidden] [ref=e34]: ▲
+              - generic [ref=e35]: demo
+            - listitem [ref=e36]:
+              - generic [ref=e37]: LEARNING
+              - generic [aria-hidden] [ref=e38]: ▲
+              - generic [ref=e39]: Rust
+            - listitem [ref=e40]:
+              - generic [ref=e41]: PAPER
+              - generic [aria-hidden] [ref=e42]: ▲
+              - generic [ref=e43]: Volatility Clustering im DAX
+            - listitem [ref=e44]:
+              - generic [ref=e45]: READING
+              - generic [aria-hidden] [ref=e46]: ▲
+              - generic [ref=e47]: Atomic Habits
+            - listitem [ref=e48]:
+              - generic [ref=e49]: MODEL
+              - generic [aria-hidden] [ref=e50]: ▲
+              - generic [ref=e51]: GARCH(1,1)
+            - listitem [ref=e52]:
+              - generic [ref=e53]: AUTOMATION
+              - generic [aria-hidden] [ref=e54]: ▲
+              - generic [ref=e55]: Finance Checker
+            - listitem [ref=e56]:
+              - generic [ref=e57]: SHIPPED
+              - generic [aria-hidden] [ref=e58]: ▲
+              - generic [ref=e59]: 4 Projekte
+            - listitem [ref=e60]:
+              - generic [ref=e61]: NEXT
+              - generic [aria-hidden] [ref=e62]: ▲
+              - generic [ref=e63]: eigene Fintech-Idee
+          - list [aria-hidden] [ref=e64]:
+            - listitem [ref=e65]:
+              - generic [ref=e66]: REVIEWFLOW
+              - generic [aria-hidden] [ref=e67]: ▲
+              - generic [ref=e68]: building
+            - listitem [ref=e69]:
+              - generic [ref=e70]: WASGEHT
+              - generic [aria-hidden] [ref=e71]: ▲
+              - generic [ref=e72]: demo
+            - listitem [ref=e73]:
+              - generic [ref=e74]: LEARNING
+              - generic [aria-hidden] [ref=e75]: ▲
+              - generic [ref=e76]: Rust
+            - listitem [ref=e77]:
+              - generic [ref=e78]: PAPER
+              - generic [aria-hidden] [ref=e79]: ▲
+              - generic [ref=e80]: Volatility Clustering im DAX
+            - listitem [ref=e81]:
+              - generic [ref=e82]: READING
+              - generic [aria-hidden] [ref=e83]: ▲
+              - generic [ref=e84]: Atomic Habits
+            - listitem [ref=e85]:
+              - generic [ref=e86]: MODEL
+              - generic [aria-hidden] [ref=e87]: ▲
+              - generic [ref=e88]: GARCH(1,1)
+            - listitem [ref=e89]:
+              - generic [ref=e90]: AUTOMATION
+              - generic [aria-hidden] [ref=e91]: ▲
+              - generic [ref=e92]: Finance Checker
+            - listitem [ref=e93]:
+              - generic [ref=e94]: SHIPPED
+              - generic [aria-hidden] [ref=e95]: ▲
+              - generic [ref=e96]: 4 Projekte
+            - listitem [ref=e97]:
+              - generic [ref=e98]: NEXT
+              - generic [aria-hidden] [ref=e99]: ▲
+              - generic [ref=e100]: eigene Fintech-Idee
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - heading "Ein bisschen über mich." [level=2] [ref=e104]
+          - paragraph [ref=e106]:
+            - generic [ref=e107]: Ich
+            - generic [ref=e108]: will
+            - generic [ref=e109]: verstehen,
+            - generic [ref=e110]: wie
+            - generic [ref=e111]: Dinge
+            - generic [ref=e112]: funktionieren.
+            - generic [ref=e113]: Deshalb
+            - generic [ref=e114]: baue
+            - generic [ref=e115]: ich
+            - generic [ref=e116]: sie
+            - generic [ref=e117]: lieber
+            - generic [ref=e118]: selbst,
+            - generic [ref=e119]: statt
+            - generic [ref=e120]: nur
+            - generic [ref=e121]: darüber
+            - generic [ref=e122]: zu
+            - generic [ref=e123]: lesen.
+            - generic [ref=e124]: Eine
+            - generic [ref=e125]: Idee
+            - generic [ref=e126]: ist
+            - generic [ref=e127]: für
+            - generic [ref=e128]: mich
+            - generic [ref=e129]: erst
+            - generic [ref=e130]: dann
+            - generic [ref=e131]: etwas
+            - generic [ref=e132]: wert,
+            - generic [ref=e133]: wenn
+            - generic [ref=e134]: sie
+            - generic [ref=e135]: läuft,
+            - generic [ref=e136]: Fehler
+            - generic [ref=e137]: macht
+            - generic [ref=e138]: und
+            - generic [ref=e139]: besser
+            - generic [ref=e140]: wird.
+            - generic [ref=e141]: Genau
+            - generic [ref=e142]: das
+            - generic [ref=e143]: treibt
+            - generic [ref=e144]: mich
+            - generic [ref=e145]: an,
+            - generic [ref=e146]: egal
+            - generic [ref=e147]: ob
+            - generic [ref=e148]: es
+            - generic [ref=e149]: um
+            - generic [ref=e150]: Code,
+            - generic [ref=e151]: Märkte
+            - generic [ref=e152]: oder
+            - generic [ref=e153]: ein
+            - generic [ref=e154]: eigenes
+            - generic [ref=e155]: Produkt
+            - generic [ref=e156]: geht.
+        - generic [ref=e157]:
+          - generic [ref=e158]:
+            - term [ref=e159]: Basis
+            - definition [ref=e160]: Deutschland
+          - generic [ref=e161]:
+            - term [ref=e162]: Fokus
+            - definition [ref=e163]: Produkte, Backend, Finance
+          - generic [ref=e164]:
+            - term [ref=e165]: Gerade
+            - definition [ref=e166]: ReviewFlow
+          - generic [ref=e167]:
+            - term [ref=e168]: Antrieb
+            - definition [ref=e169]: Dinge, die wirklich laufen
+      - paragraph [ref=e170]:
+        - generic [ref=e171]: Learn.
+        - generic [ref=e172]: Build.
+        - generic [ref=e173]: Improve.
+    - generic [ref=e174]:
+      - generic [ref=e175]:
+        - paragraph [ref=e176]: Was ich baue.
+        - heading "Things I've built." [level=2] [ref=e177]
+      - generic [ref=e180]:
+        - generic [ref=e181]:
+          - heading "ReviewFlow" [level=3] [ref=e182]
+          - generic [ref=e183]: in progress
+        - generic [ref=e184]:
+          - generic [ref=e185]:
+            - term [ref=e186]: Was
+            - definition [ref=e187]: Ein Tool, das Bewertungen sammelt, auswertet und daraus konkrete Aufgaben macht.
+          - generic [ref=e188]:
+            - term [ref=e189]: Warum
+            - definition [ref=e190]: Kleine Unternehmen bekommen Feedback, aber keine Zeit, es auszuwerten.
+          - generic [ref=e191]:
+            - term [ref=e192]: Umgesetzt
+            - definition [ref=e193]: Dashboard, Auswertung, Benachrichtigungen, Auth und Abrechnung.
+          - generic [ref=e194]:
+            - term [ref=e195]: Tech
+            - definition [ref=e196]: React, Node.js, PostgreSQL, Supabase
+          - generic [ref=e197]:
+            - term [ref=e198]: Stand
+            - definition [ref=e199]: Beta mit ersten Testnutzern
+    - generic [ref=e200]:
+      - paragraph [ref=e201]: Was ich mache.
+      - heading "Built from scratch." [level=2] [ref=e202]
+      - paragraph [ref=e203]: Ich setze meine Projekte selbst um, von der ersten Idee über Design, Frontend und Backend bis zum Deployment.
+      - list "Wie ich Projekte umsetze" [ref=e204]:
+        - listitem [ref=e205]:
+          - generic [ref=e206]: Idee
+        - listitem [ref=e209]:
+          - generic [ref=e210]: Design
+        - listitem [ref=e213]:
+          - generic [ref=e214]: Frontend
+        - listitem [ref=e217]:
+          - generic [ref=e218]: Backend
+        - listitem [ref=e221]:
+          - generic [ref=e222]: Deployment
+      - generic [ref=e223]:
+        - generic [ref=e224]:
+          - generic [aria-hidden]:
+            - generic:
+              - generic:
+                - generic: "1"
+                - generic: "const { data } = await supabase"
+              - generic:
+                - generic: "2"
+                - generic: .from('projects')
+              - generic:
+                - generic: "3"
+                - generic: .select('*, reviews(*)')
+              - generic:
+                - generic: "4"
+                - generic: .eq('status', 'live');
+              - generic: "5"
+              - generic:
+                - generic: "6"
+                - generic: "export default function App() {"
+              - generic:
+                - generic: "7"
+                - generic: const [items, setItems] = useState(data);
+              - generic: "8"
+              - generic:
+                - generic: "9"
+                - generic: "useEffect(() => {"
+              - generic:
+                - generic: "10"
+                - generic: const ch = subscribe('projects', setItems);
+              - generic:
+                - generic: "11"
+                - generic: return () => ch.unsubscribe();
+              - generic:
+                - generic: "12"
+                - generic: "}, []);"
+              - generic: "13"
+              - generic:
+                - generic: "14"
+                - generic: "return <Dashboard items={items} />;"
+              - generic:
+                - generic: "15"
+                - generic: "}"
+              - generic: "16"
+            - generic:
+              - generic:
+                - generic: "1"
+                - generic: "const { data } = await supabase"
+              - generic:
+                - generic: "2"
+                - generic: .from('projects')
+              - generic:
+                - generic: "3"
+                - generic: .select('*, reviews(*)')
+              - generic:
+                - generic: "4"
+                - generic: .eq('status', 'live');
+              - generic: "5"
+              - generic:
+                - generic: "6"
+                - generic: "export default function App() {"
+              - generic:
+                - generic: "7"
+                - generic: const [items, setItems] = useState(data);
+              - generic: "8"
+              - generic:
+                - generic: "9"
+                - generic: "useEffect(() => {"
+              - generic:
+                - generic: "10"
+                - generic: const ch = subscribe('projects', setItems);
+              - generic:
+                - generic: "11"
+                - generic: return () => ch.unsubscribe();
+              - generic:
+                - generic: "12"
+                - generic: "}, []);"
+              - generic: "13"
+              - generic:
+                - generic: "14"
+                - generic: "return <Dashboard items={items} />;"
+              - generic:
+                - generic: "15"
+                - generic: "}"
+              - generic: "16"
+          - generic [ref=e226]:
+            - heading "Development" [level=3] [ref=e227]
+            - paragraph [ref=e228]: Web- und Mobile-Apps mit sauberem Frontend und einem Backend, das hält.
+          - list [ref=e230]:
+            - listitem [ref=e231]: React
+            - listitem [ref=e232]: TypeScript
+            - listitem [ref=e233]: Node.js
+            - listitem [ref=e234]: PostgreSQL
+            - listitem [ref=e235]: Supabase
+            - listitem [ref=e236]: Expo
+        - generic [ref=e239]:
+          - generic [ref=e240]:
+            - heading "Eigene Produkte" [level=3] [ref=e241]
+            - paragraph [ref=e242]: Ich baue nicht nur Features, sondern Produkte, die echte Nutzer haben.
+          - list [ref=e243]:
+            - listitem [ref=e244]: Figma
+            - listitem [ref=e245]: Stripe
+            - listitem [ref=e246]: Vercel
+        - generic [ref=e247]:
+          - generic [ref=e249]:
+            - heading "Finance" [level=3] [ref=e250]
+            - paragraph [ref=e251]: "Märkte, Modelle und Mathematik: Stochastik, Statistik und Zeitreihen, um Risiko und Rendite wirklich zu verstehen."
+          - list [ref=e253]:
+            - listitem [ref=e254]: Python
+            - listitem [ref=e255]: NumPy
+            - listitem [ref=e256]: SciPy
+            - listitem [ref=e257]: R
+            - listitem [ref=e258]: Jupyter
+            - listitem [ref=e259]: LaTeX
+        - generic [ref=e260]:
+          - generic [aria-hidden]:
+            - img:
+              - generic: webhook
+              - generic: parse
+              - generic: enrich
+              - generic: merge
+              - generic: postgres
+              - generic: notify
+          - generic [ref=e262]:
+            - heading "Automation" [level=3] [ref=e263]
+            - paragraph [ref=e264]: Workflows, Bots und Pipelines, die Arbeit von selbst erledigen.
+          - list [ref=e266]:
+            - listitem [ref=e267]: n8n
+            - listitem [ref=e268]: Docker
+            - listitem [ref=e269]: GitHub Actions
+    - generic [ref=e274]:
+      - heading "Technology mal Finance" [level=2] [ref=e275]:
+        - generic [ref=e276]: Technology
+        - generic "mal" [ref=e277]: ×
+        - generic [ref=e280]: Finance
+      - generic [ref=e281]:
+        - paragraph [ref=e282]: Neben Softwareentwicklung beschäftige ich mich intensiv mit Finanzmärkten, Investments, Wirtschaft und Unternehmertum. Besonders spannend finde ich die Verbindung zwischen Technologie und Finanzwelt.
+        - list [ref=e283]:
+          - listitem [ref=e284]: Financial Markets
+          - listitem [ref=e285]: Quantitative Finance
+          - listitem [ref=e286]: Stochastik
+          - listitem [ref=e287]: Risk
+          - listitem [ref=e288]: Investing
+          - listitem [ref=e289]: FinTech
+          - listitem [ref=e290]: Economics
+      - generic [ref=e291]:
+        - generic [ref=e292]:
+          - term [ref=e293]: Sharpe Ratio
+          - definition [ref=e294]:
+            - generic [ref=e296]:
+              - math [ref=e298]:
+                - generic [ref=e300]:
+                  - generic [ref=e301]: S
+                  - generic [ref=e302]: =
+                  - generic [ref=e304]:
+                    - generic [ref=e305]:
+                      - generic [ref=e306]: E
+                      - generic [ref=e307]: "["
+                      - generic [ref=e308]:
+                        - generic [ref=e309]: R
+                        - generic [ref=e310]: p
+                      - generic [ref=e311]: −
+                      - generic [ref=e312]:
+                        - generic [ref=e313]: R
+                        - generic [ref=e314]: f
+                      - generic [ref=e315]: "]"
+                    - generic [ref=e316]:
+                      - generic [ref=e317]: σ
+                      - generic [ref=e318]: p
+              - generic [aria-hidden] [ref=e319]:
+                - generic [ref=e320]: S =
+                - generic [ref=e326]:
+                  - generic [ref=e328]:
+                    - text: σ
+                    - generic [ref=e329]: p
+                  - generic [ref=e338]:
+                    - text: E[
+                    - generic [ref=e339]:
+                      - text: R
+                      - generic [ref=e340]: p
+                    - text: −
+                    - generic [ref=e348]:
+                      - text: R
+                      - generic [ref=e349]: f
+                    - text: "]"
+        - generic [ref=e360]:
+          - term [ref=e361]: Geometrische Brownsche Bewegung
+          - definition [ref=e362]:
+            - generic [ref=e364]:
+              - math [ref=e366]:
+                - generic [ref=e368]:
+                  - generic [ref=e369]: d
+                  - generic [ref=e370]:
+                    - generic [ref=e371]: S
+                    - generic [ref=e372]: t
+                  - generic [ref=e373]: =
+                  - generic [ref=e374]: μ
+                  - generic [ref=e375]:
+                    - generic [ref=e376]: S
+                    - generic [ref=e377]: t
+                  - generic [ref=e378]: d
+                  - generic [ref=e379]: t
+                  - generic [ref=e380]: +
+                  - generic [ref=e381]: σ
+                  - generic [ref=e382]:
+                    - generic [ref=e383]: S
+                    - generic [ref=e384]: t
+                  - generic [ref=e385]: d
+                  - generic [ref=e386]:
+                    - generic [ref=e387]: W
+                    - generic [ref=e388]: t
+              - generic [aria-hidden] [ref=e389]:
+                - generic [ref=e390]:
+                  - text: d
+                  - generic [ref=e391]:
+                    - text: S
+                    - generic [ref=e392]: t
+                  - text: =
+                - generic [ref=e400]:
+                  - text: μ
+                  - generic [ref=e401]:
+                    - text: S
+                    - generic [ref=e402]: t
+                  - text: dt +
+                - generic [ref=e410]:
+                  - text: σ
+                  - generic [ref=e411]:
+                    - text: S
+                    - generic [ref=e412]: t
+                  - text: d
+                  - generic [ref=e420]:
+                    - text: W
+                    - generic [ref=e421]: t
+        - generic [ref=e429]:
+          - term [ref=e430]: GARCH(1,1)
+          - definition [ref=e431]:
+            - generic [ref=e433]:
+              - math [ref=e435]:
+                - generic [ref=e437]:
+                  - generic [ref=e438]:
+                    - generic [ref=e439]: σ
+                    - generic [ref=e440]: t
+                    - generic [ref=e441]: "2"
+                  - generic [ref=e442]: =
+                  - generic [ref=e443]: ω
+                  - generic [ref=e444]: +
+                  - generic [ref=e445]: α
+                  - generic [ref=e446]:
+                    - generic [ref=e447]: ε
+                    - generic [ref=e448]:
+                      - generic [ref=e449]: t
+                      - generic [ref=e450]: −
+                      - generic [ref=e451]: "1"
+                    - generic [ref=e452]: "2"
+                  - generic [ref=e453]: +
+                  - generic [ref=e454]: β
+                  - generic [ref=e455]:
+                    - generic [ref=e456]: σ
+                    - generic [ref=e457]:
+                      - generic [ref=e458]: t
+                      - generic [ref=e459]: −
+                      - generic [ref=e460]: "1"
+                    - generic [ref=e461]: "2"
+              - generic [aria-hidden] [ref=e462]:
+                - generic [ref=e463]:
+                  - generic [ref=e464]:
+                    - text: σ
+                    - generic [ref=e468]:
+                      - generic [ref=e469]: t
+                      - generic [ref=e470]: "2"
+                  - text: =
+                - generic [ref=e474]: ω +
+                - generic [ref=e475]:
+                  - text: α
+                  - generic [ref=e476]:
+                    - text: ε
+                    - generic [ref=e480]:
+                      - generic [ref=e481]: t−1
+                      - generic [ref=e483]: "2"
+                  - text: +
+                - generic [ref=e487]:
+                  - text: β
+                  - generic [ref=e488]:
+                    - text: σ
+                    - generic [ref=e492]:
+                      - generic [ref=e493]: t−1
+                      - generic [ref=e495]: "2"
+    - generic [ref=e499]:
+      - generic [ref=e503]:
+        - paragraph [ref=e504]: Thinking in numbers.
+        - heading "Papers & Studien." [level=2] [ref=e505]
+        - paragraph [ref=e506]: Neben dem Bauen schreibe ich über Märkte, Modelle und Mathematik. Hier sind meine Arbeiten, von empirischen Studien bis zu theoretischen Papers.
+        - paragraph [ref=e507]: "Im Hintergrund: 48 simulierte Kurspfade, geometrische Brownsche Bewegung, Medianpfad in Grün"
+      - generic [ref=e508]:
+        - article [ref=e509]:
+          - generic [ref=e510]:
+            - generic [ref=e511]:
+              - generic [ref=e512]: "2026"
+              - generic [ref=e513]: Paper
+              - generic [ref=e514]: Eigenes Paper
+            - 'heading "Volatility Clustering im DAX: Ein GARCH-Vergleich über drei Marktphasen" [level=3] [ref=e515]'
+            - paragraph [ref=e516]: Untersucht, wie gut GARCH(1,1), EGARCH und GJR-GARCH die Volatilität des DAX in ruhigen, krisenhaften und erholenden Marktphasen abbilden, und vergleicht die Prognosegüte out of sample.
+            - generic [ref=e517]:
+              - list [ref=e518]:
+                - listitem [ref=e519]: "#Zeitreihen"
+                - listitem [ref=e520]: "#Volatilität"
+                - listitem [ref=e521]: "#Ökonometrie"
+              - list [ref=e522]:
+                - listitem [ref=e523]:
+                  - link "PDF" [ref=e524] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e527]:
+                  - link "Code" [ref=e528] [cursor=pointer]:
+                    - /url: "#"
+          - generic [ref=e534]:
+            - math [ref=e536]:
+              - generic [ref=e538]:
+                - generic [ref=e539]:
+                  - generic [ref=e540]: σ
+                  - generic [ref=e541]: t
+                  - generic [ref=e542]: "2"
+                - generic [ref=e543]: =
+                - generic [ref=e544]: ω
+                - generic [ref=e545]: +
+                - generic [ref=e546]: α
+                - generic [ref=e547]:
+                  - generic [ref=e548]: ε
+                  - generic [ref=e549]:
+                    - generic [ref=e550]: t
+                    - generic [ref=e551]: −
+                    - generic [ref=e552]: "1"
+                  - generic [ref=e553]: "2"
+                - generic [ref=e554]: +
+                - generic [ref=e555]: β
+                - generic [ref=e556]:
+                  - generic [ref=e557]: σ
+                  - generic [ref=e558]:
+                    - generic [ref=e559]: t
+                    - generic [ref=e560]: −
+                    - generic [ref=e561]: "1"
+                  - generic [ref=e562]: "2"
+            - generic [aria-hidden] [ref=e563]:
+              - generic [ref=e564]:
+                - generic [ref=e565]:
+                  - text: σ
+                  - generic [ref=e569]:
+                    - generic [ref=e570]: t
+                    - generic [ref=e571]: "2"
+                - text: =
+              - generic [ref=e575]: ω +
+              - generic [ref=e576]:
+                - text: α
+                - generic [ref=e577]:
+                  - text: ε
+                  - generic [ref=e581]:
+                    - generic [ref=e582]: t−1
+                    - generic [ref=e584]: "2"
+                - text: +
+              - generic [ref=e588]:
+                - text: β
+                - generic [ref=e589]:
+                  - text: σ
+                  - generic [ref=e593]:
+                    - generic [ref=e594]: t−1
+                    - generic [ref=e596]: "2"
+        - group "Nach Art filtern" [ref=e600]:
+          - button "Alle 5" [pressed] [ref=e601]
+          - button "Studie 2" [ref=e602]
+          - button "Paper 1" [ref=e603]
+          - button "Seminararbeit 1" [ref=e604]
+          - button "Working Paper 1" [ref=e605]
+        - list [ref=e606]:
+          - listitem [ref=e607]:
+            - 'button "2026 Studie Momentum oder Zufall? Eine Backtest-Studie mit Bootstrap-Konfidenzintervallen #Backtesting #Statistik #Faktoren" [ref=e608]':
+              - generic [ref=e609]: "2026"
+              - generic [ref=e610]: Studie
+              - generic [ref=e611]:
+                - generic [ref=e612]: Momentum oder Zufall? Eine Backtest-Studie mit Bootstrap-Konfidenzintervallen
+                - list [ref=e614]:
+                  - listitem [ref=e615]: "#Backtesting"
+                  - listitem [ref=e616]: "#Statistik"
+                  - listitem [ref=e617]: "#Faktoren"
+          - listitem [ref=e620]:
+            - 'button "2025 Paper Optionsbewertung per Monte-Carlo-Simulation und Varianzreduktion #Derivate #Stochastik #Numerik" [ref=e621]':
+              - generic [ref=e622]: "2025"
+              - generic [ref=e623]: Paper
+              - generic [ref=e624]:
+                - generic [ref=e625]: Optionsbewertung per Monte-Carlo-Simulation und Varianzreduktion
+                - list [ref=e627]:
+                  - listitem [ref=e628]: "#Derivate"
+                  - listitem [ref=e629]: "#Stochastik"
+                  - listitem [ref=e630]: "#Numerik"
+          - listitem [ref=e633]:
+            - 'button "2025 Seminararbeit Markowitz in der Praxis: Wie stabil sind effiziente Portfolios? #Portfoliotheorie #Optimierung" [ref=e634]':
+              - generic [ref=e635]: "2025"
+              - generic [ref=e636]: Seminararbeit
+              - generic [ref=e637]:
+                - generic [ref=e638]: "Markowitz in der Praxis: Wie stabil sind effiziente Portfolios?"
+                - list [ref=e640]:
+                  - listitem [ref=e641]: "#Portfoliotheorie"
+                  - listitem [ref=e642]: "#Optimierung"
+          - listitem [ref=e645]:
+            - 'button "2025 Studie Zinsentscheidungen und Marktreaktion: Eine Event-Study zur EZB #Makro #Event Study #Ökonometrie" [ref=e646]':
+              - generic [ref=e647]: "2025"
+              - generic [ref=e648]: Studie
+              - generic [ref=e649]:
+                - generic [ref=e650]: "Zinsentscheidungen und Marktreaktion: Eine Event-Study zur EZB"
+                - list [ref=e652]:
+                  - listitem [ref=e653]: "#Makro"
+                  - listitem [ref=e654]: "#Event Study"
+                  - listitem [ref=e655]: "#Ökonometrie"
+          - listitem [ref=e658]:
+            - 'button "2024 Working Paper Random Walks und Markteffizienz: Ein Variance-Ratio-Test auf Krypto-Märkten #Markteffizienz #Statistik #Krypto" [ref=e659]':
+              - generic [ref=e660]: "2024"
+              - generic [ref=e661]: Working Paper
+              - generic [ref=e662]:
+                - generic [ref=e663]: "Random Walks und Markteffizienz: Ein Variance-Ratio-Test auf Krypto-Märkten"
+                - list [ref=e665]:
+                  - listitem [ref=e666]: "#Markteffizienz"
+                  - listitem [ref=e667]: "#Statistik"
+                  - listitem [ref=e668]: "#Krypto"
+    - generic [ref=e672]:
+      - generic [ref=e674]:
+        - heading "Currently building." [level=2] [ref=e675]
+        - paragraph [ref=e676]: Woran ich aktuell arbeite, was ich gerade lerne und womit ich experimentiere.
+      - list [ref=e677]:
+        - listitem [ref=e678]:
+          - time [ref=e679]: "2026.09"
+          - generic [ref=e680]: building
+          - generic [ref=e681]:
+            - heading [level=3] [ref=e682]:
+              - generic [aria-hidden] [ref=e684]: ReviewFlow Beta
+            - paragraph [ref=e685]: Onboarding für die ersten Testnutzer und das Abrechnungsmodell.
+        - listitem [ref=e686]:
+          - time [ref=e687]: "2026.09"
+          - generic [ref=e688]: learning
+          - generic [ref=e689]:
+            - heading [level=3] [ref=e690]:
+              - generic [aria-hidden] [ref=e692]: Rust
+            - paragraph [ref=e693]: Für schnellere Datenverarbeitung im Trading-Setup.
+        - listitem [ref=e694]:
+          - time [ref=e695]: "2026.08"
+          - generic [ref=e696]: experimenting
+          - generic [ref=e697]:
+            - heading [level=3] [ref=e698]:
+              - generic [aria-hidden] [ref=e700]: LLM-Agents für Reports
+            - paragraph [ref=e701]: Automatische Wochenberichte aus Markt- und Projektdaten.
+        - listitem [ref=e702]:
+          - time [ref=e703]: "2026.08"
+          - generic [ref=e704]: learning
+          - generic [ref=e705]:
+            - heading [level=3] [ref=e706]:
+              - generic [aria-hidden] [ref=e708]: Unternehmensbewertung
+            - paragraph [ref=e709]: DCF-Modelle und was Kennzahlen wirklich aussagen.
+    - generic [ref=e710]:
+      - generic [ref=e711]:
+        - heading "Mehr als Code." [level=2] [ref=e712]
+        - paragraph [ref=e713]: Always curious.
+      - list [ref=e714]:
+        - listitem [ref=e715]:
+          - figure [ref=e717]:
+            - img "Unternehmertum" [ref=e719]
+          - heading "Unternehmertum" [level=3] [ref=e720]
+          - paragraph [ref=e721]: Ideen, aus denen ein echtes Business werden kann.
+        - listitem [ref=e722]:
+          - figure [ref=e724]:
+            - img "Finanzmärkte" [ref=e726]
+          - heading "Finanzmärkte" [level=3] [ref=e727]
+          - paragraph [ref=e728]: Morgens zuerst die Märkte, dann der Code.
+        - listitem [ref=e729]:
+          - figure [ref=e731]:
+            - img "Sport" [ref=e733]
+          - heading "Sport" [level=3] [ref=e734]
+          - paragraph [ref=e735]: Der Ausgleich, der den Kopf frei macht.
+        - listitem [ref=e736]:
+          - figure [ref=e738]:
+            - img "Reisen" [ref=e740]
+          - heading "Reisen" [level=3] [ref=e741]
+          - paragraph [ref=e742]: Neue Orte, neue Perspektiven.
+        - listitem [ref=e743]:
+          - figure [ref=e745]:
+            - img "Lesen" [ref=e747]
+          - heading "Lesen" [level=3] [ref=e748]
+          - paragraph [ref=e749]: Biografien, Investing und alles über Systeme.
+  - contentinfo [ref=e750]:
+    - generic [ref=e751]:
+      - generic [ref=e752]:
+        - heading "What's next?" [level=2] [ref=e753]
+        - paragraph [ref=e754]: Ich bin immer offen für neue Projekte, interessante Ideen und Möglichkeiten, Neues zu lernen.
+      - list [ref=e756]:
+        - listitem [ref=e757]:
+          - link "GitHub" [ref=e758] [cursor=pointer]:
+            - /url: https://github.com/
+        - listitem [ref=e761]:
+          - link "LinkedIn" [ref=e762] [cursor=pointer]:
+            - /url: https://www.linkedin.com/
+        - listitem [ref=e765]:
+          - link "E-Mail" [ref=e766] [cursor=pointer]:
+            - /url: mailto:hallo@example.com
+        - listitem [ref=e769]:
+          - link "Lebenslauf" [ref=e770] [cursor=pointer]:
+            - /url: /lebenslauf.pdf
+    - generic "Woran ich gerade arbeite" [ref=e773]:
+      - generic [ref=e774]:
+        - list [ref=e775]:
+          - listitem [ref=e776]:
+            - generic [ref=e777]: REVIEWFLOW
+            - generic [aria-hidden] [ref=e778]: ▲
+            - generic [ref=e779]: building
+          - listitem [ref=e780]:
+            - generic [ref=e781]: WASGEHT
+            - generic [aria-hidden] [ref=e782]: ▲
+            - generic [ref=e783]: demo
+          - listitem [ref=e784]:
+            - generic [ref=e785]: LEARNING
+            - generic [aria-hidden] [ref=e786]: ▲
+            - generic [ref=e787]: Rust
+          - listitem [ref=e788]:
+            - generic [ref=e789]: PAPER
+            - generic [aria-hidden] [ref=e790]: ▲
+            - generic [ref=e791]: Volatility Clustering im DAX
+          - listitem [ref=e792]:
+            - generic [ref=e793]: READING
+            - generic [aria-hidden] [ref=e794]: ▲
+            - generic [ref=e795]: Atomic Habits
+          - listitem [ref=e796]:
+            - generic [ref=e797]: MODEL
+            - generic [aria-hidden] [ref=e798]: ▲
+            - generic [ref=e799]: GARCH(1,1)
+          - listitem [ref=e800]:
+            - generic [ref=e801]: AUTOMATION
+            - generic [aria-hidden] [ref=e802]: ▲
+            - generic [ref=e803]: Finance Checker
+          - listitem [ref=e804]:
+            - generic [ref=e805]: SHIPPED
+            - generic [aria-hidden] [ref=e806]: ▲
+            - generic [ref=e807]: 4 Projekte
+          - listitem [ref=e808]:
+            - generic [ref=e809]: NEXT
+            - generic [aria-hidden] [ref=e810]: ▲
+            - generic [ref=e811]: eigene Fintech-Idee
+        - list [aria-hidden] [ref=e812]:
+          - listitem [ref=e813]:
+            - generic [ref=e814]: REVIEWFLOW
+            - generic [aria-hidden] [ref=e815]: ▲
+            - generic [ref=e816]: building
+          - listitem [ref=e817]:
+            - generic [ref=e818]: WASGEHT
+            - generic [aria-hidden] [ref=e819]: ▲
+            - generic [ref=e820]: demo
+          - listitem [ref=e821]:
+            - generic [ref=e822]: LEARNING
+            - generic [aria-hidden] [ref=e823]: ▲
+            - generic [ref=e824]: Rust
+          - listitem [ref=e825]:
+            - generic [ref=e826]: PAPER
+            - generic [aria-hidden] [ref=e827]: ▲
+            - generic [ref=e828]: Volatility Clustering im DAX
+          - listitem [ref=e829]:
+            - generic [ref=e830]: READING
+            - generic [aria-hidden] [ref=e831]: ▲
+            - generic [ref=e832]: Atomic Habits
+          - listitem [ref=e833]:
+            - generic [ref=e834]: MODEL
+            - generic [aria-hidden] [ref=e835]: ▲
+            - generic [ref=e836]: GARCH(1,1)
+          - listitem [ref=e837]:
+            - generic [ref=e838]: AUTOMATION
+            - generic [aria-hidden] [ref=e839]: ▲
+            - generic [ref=e840]: Finance Checker
+          - listitem [ref=e841]:
+            - generic [ref=e842]: SHIPPED
+            - generic [aria-hidden] [ref=e843]: ▲
+            - generic [ref=e844]: 4 Projekte
+          - listitem [ref=e845]:
+            - generic [ref=e846]: NEXT
+            - generic [aria-hidden] [ref=e847]: ▲
+            - generic [ref=e848]: eigene Fintech-Idee
+    - paragraph [ref=e851]:
+      - generic [aria-hidden] [ref=e852]: S
+      - generic [aria-hidden] [ref=e853]: t
+      - generic [aria-hidden] [ref=e854]: i
+      - generic [aria-hidden] [ref=e855]: l
+      - generic [aria-hidden] [ref=e856]: l
+      - generic [aria-hidden] [ref=e857]: b
+      - generic [aria-hidden] [ref=e858]: u
+      - generic [aria-hidden] [ref=e859]: i
+      - generic [aria-hidden] [ref=e860]: l
+      - generic [aria-hidden] [ref=e861]: d
+      - generic [aria-hidden] [ref=e862]: i
+      - generic [aria-hidden] [ref=e863]: "n"
+      - generic [aria-hidden] [ref=e864]: g
+      - generic [aria-hidden] [ref=e865]: .
+    - generic [ref=e866]:
+      - generic [ref=e867]: © 2026 Tarek
+      - link "Nach oben" [ref=e868] [cursor=pointer]:
+        - /url: "#top"
